@@ -1,4 +1,4 @@
-- [Anécdotas y Crueldades de Trujillo](#anecdotas-y-crueldades-de-trujillo), Lipe Collado
+- [Anécdotas y Crueldades de Trujillo](#anécdotas-y-crueldades-de-trujillo), Lipe Collado
 - [El Olor de la Guayaba](#foe), Gabriel García Márquez
 - A Study in Scarlet, Sir Arthur Conan Doyle
 - Animal Farm, George Orwell

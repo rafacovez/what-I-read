@@ -1,5 +1,5 @@
 - [Anécdotas y Crueldades de Trujillo](#anecdotas-y-crueldades-de-trujillo), Lipe Collado
-- El Olor de la Guayaba, Gabriel García Márquez
+- [El Olor de la Guayaba](#foe), Gabriel García Márquez
 - A Study in Scarlet, Sir Arthur Conan Doyle
 - Animal Farm, George Orwell
 - Annihilation, Jef Vandermeer
@@ -21,5 +21,9 @@
 - Treasure Island, Robert Louis Stevenson
 
 ### Anécdotas y Crueldades de Trujillo
+
+Recopilación de memorias sobre experiencias vividas en el mismo entorno de el dictador Dominicano, Rafael Leonidas Trujillo.
+
+### Foe
 
 Recopilación de memorias sobre experiencias vividas en el mismo entorno de el dictador Dominicano, Rafael Leonidas Trujillo.

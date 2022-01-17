@@ -2,7 +2,7 @@
 
 This repository's purpose is to increase my reading and keep track of it.
 
-goal: 20
+goal: 20 \
 read: 21/20
 
 - 🔴 mild
@@ -35,6 +35,6 @@ read: 21/20
 
 ### Top 3 authors
 
-- [Gabriel García Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez)
-- [Isabel Allende](https://en.wikipedia.org/wiki/Isabel_Allende)
-- [Marcio Veloz Maggiolo](https://en.wikipedia.org/wiki/Marcio_Veloz_Maggiolo)
+1. [Gabriel García Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez)
+2. [Marcio Veloz Maggiolo](https://en.wikipedia.org/wiki/Marcio_Veloz_Maggiolo)
+3. [Isabel Allende](https://en.wikipedia.org/wiki/Isabel_Allende)

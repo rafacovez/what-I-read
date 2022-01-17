@@ -2,7 +2,8 @@
 
 This repository's purpose is to increase my reading and keep track of it.
 
-goal: 15
+goal: 15 \
+read: ~/15
 
 - 🔴 to read
 - 🔵 reading

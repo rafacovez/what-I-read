@@ -15,3 +15,9 @@ read: ~/15
 - Sapiens, Yuval Noah Harari 🔵
 - Homo Deus, Yuval Noah Harari 🔴
 - Ritos de Cabaret, Marcio Veloz Maggiolo 🔴
+
+### Top 3 authors
+
+1. ~
+2. ~
+3. ~

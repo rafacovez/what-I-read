@@ -1,5 +1,8 @@
-# what-I-read
+# What I read in 2022
+
 This repository's purpose is to increase my reading and keep track of it.
+
+goal: 15
 
 - 🔴 to read
 - 🔵 reading
@@ -10,3 +13,4 @@ This repository's purpose is to increase my reading and keep track of it.
 - The Diary of Anne Frank, Anne Frank 🔴
 - Sapiens, Yuval Noah Harari 🔵
 - Homo Deus, Yuval Noah Harari 🔴
+- Ritos de Cabaret, Marcio Veloz Maggiolo 🔴

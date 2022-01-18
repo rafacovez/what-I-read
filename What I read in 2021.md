@@ -15,7 +15,7 @@ read: 21/20
 - El Olor de la Guayaba, Gabriel García Márquez 🔵
 - A Study in Scarlet, Sir Arthur Conan Doyle 🔵
 - Animal Farm, George Orwell 🔵
-- Annihilation, Jef Vandermeer 🔵
+- Annihilation, Jeff Vandermeer 🔵
 - El Otoño del Patriarca, Gabriel García Márquez 🔵
 - Eva Luna, Isabel Allende 🟢
 - Foe, Lain Reid 🔵

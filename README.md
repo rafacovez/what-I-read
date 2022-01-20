@@ -11,10 +11,10 @@ read: ~/15
 
 ## To read
 
-- The Diary of Anne Frank, Anne Frank 🔴
 - Sapiens, Yuval Noah Harari 🔵
 - Homo Deus, Yuval Noah Harari 🔴
 - Ritos de Cabaret, Marcio Veloz Maggiolo 🔴
+- Otra Economía es Posible, Manuel Castells 🔴
 
 ### Top 3 authors
 

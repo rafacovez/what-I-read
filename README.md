@@ -12,6 +12,7 @@ read: ~/15
 ## To read
 
 - Sapiens, Yuval Noah Harari 🔵
+- El Amor en los Tiempos del Cólera, Gabriel García Márquez 🔵
 - Homo Deus, Yuval Noah Harari 🔴
 - Ritos de Cabaret, Marcio Veloz Maggiolo 🔴
 - Otra Economía es Posible, Manuel Castells 🔴

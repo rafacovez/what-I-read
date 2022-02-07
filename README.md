@@ -2,12 +2,11 @@
 
 This repository's purpose is to increase my reading and keep track of it.
 
-goal: 15 \
-read: ~/15
+goal: to learn
 
 - 🔴 to read
 - 🔵 reading
-- 🟢 read
+- 🟢 read (in the case of non-fiction books, I don't have to completely read them, but to get what I want from them)
 
 ## To read
 
@@ -16,6 +15,11 @@ read: ~/15
 - Homo Deus, Yuval Noah Harari 🔴
 - Ritos de Cabaret, Marcio Veloz Maggiolo 🔴
 - Otra Economía es Posible, Manuel Castells 🔴
+
+## Read opinions and insights
+
+- **Sapiens, Yuval Noah Harari**:
+This book is still on reading.
 
 ### Top 3 authors
 

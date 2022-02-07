@@ -18,8 +18,7 @@ goal: to learn
 
 ## Read opinions and insights
 
-- **Sapiens, Yuval Noah Harari**:
-This book is still on reading.
+- **Sapiens, Yuval Noah Harari**: I'm still reading this book.
 
 ### Top 3 authors
 

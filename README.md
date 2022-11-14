@@ -1,6 +1,6 @@
 # What I read in 2022
 
-This repository's purpose is to increase my reading and keep track of it.
+Keeping track of my reading.
 
 goal: to learn
 

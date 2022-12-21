@@ -1,7 +1,5 @@
 # What I read in 2021
 
-This repository's purpose is to increase my reading and keep track of it.
-
 goal: 20 \
 read: 21/20
 

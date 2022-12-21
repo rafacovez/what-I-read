@@ -1,27 +1,26 @@
-# What I read in 2022
+# What I read in 2021
 
-Keeping track of my reading.
+This repository's purpose is to increase my reading and keep track of it.
 
-goal: to learn
+goal: 20 \
+read: 7/20
 
-- 🔴 to read
-- 🔵 reading
-- 🟢 read (in the case of non-fiction books, I don't have to completely read them, but to get what I want from them)
+- 🔴 mild
+- 🔵 great
+- 🟢 life-changing
 
-## To read
+## List
 
-- Sapiens, Yuval Noah Harari 🔵
-- El Amor en los Tiempos del Cólera, Gabriel García Márquez 🔵
-- Homo Deus, Yuval Noah Harari 🔴
-- Ritos de Cabaret, Marcio Veloz Maggiolo 🔴
-- Otra Economía es Posible, Manuel Castells 🔴
-
-## Read opinions and insights
-
-- **Sapiens, Yuval Noah Harari**: I'm still reading this book.
+- Vislumbres de la India, Octavio Paz 🔴
+- Dark Matter, Blake Crouch 🔵
+- Pulp, Charles Bukowski 🔵
+- The Shadow Over Innsmouth, H. P. Lovecraft 🔴
+- Over, Ramón Marrero Aristy 🟢
+- Kafka on the Shore, Haruki Murakami 🟢
+- Brida, Paulo Coelho 🟢
 
 ### Top 3 authors
 
-1. ~
-2. ~
-3. ~
+1. [Ramón Marrero Aristy](https://www.goodreads.com/author/show/2085073.Ram_n_Marrero_Aristy)
+2. [Haruki Murakami](https://www.goodreads.com/author/show/3354.Haruki_Murakami)
+3. [Paulo Coelho](https://www.goodreads.com/author/show/566.Paulo_Coelho)

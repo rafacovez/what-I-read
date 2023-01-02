@@ -1,7 +1,7 @@
 # What I read in 2023
 
 goal: 50 \
-read: 7/20
+read: 1/50
 
 - 🔴 mild
 - 🔵 great

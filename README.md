@@ -1,6 +1,6 @@
-# What I read in 2022
+# What I read in 2023
 
-goal: 20 \
+goal: 50 \
 read: 7/20
 
 - 🔴 mild
@@ -9,16 +9,8 @@ read: 7/20
 
 ## List
 
-- Vislumbres de la India, Octavio Paz 🔴
-- Dark Matter, Blake Crouch 🔵
-- Pulp, Charles Bukowski 🔵
-- The Shadow Over Innsmouth, H. P. Lovecraft 🔴
-- Over, Ramón Marrero Aristy 🟢
-- Kafka on the Shore, Haruki Murakami 🟢
-- Brida, Paulo Coelho 🟢
+- Cadáver Exquisito, Agustina Bazterrica 🔵
 
 ### Top 3 authors
 
-1. [Ramón Marrero Aristy](https://www.goodreads.com/author/show/2085073.Ram_n_Marrero_Aristy)
-2. [Haruki Murakami](https://www.goodreads.com/author/show/3354.Haruki_Murakami)
-3. [Paulo Coelho](https://www.goodreads.com/author/show/566.Paulo_Coelho)
+1. [Agustina Bazterrica](https://www.goodreads.com/author/show/17772202.Agustina_Bazterrica)

@@ -14,6 +14,7 @@ read: 5/50
 - White Nights, Fyodor Dostoevsky 🔵
 - Serotonin, Michel Houellebecq 🔵
 - The Most Beautiful Woman in Town, Charles Bukowski 🟢
+- El Zahir, Paulo Coelho 🔵
 
 ### Top 3 authors
 

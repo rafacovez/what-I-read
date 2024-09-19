@@ -1,7 +1,7 @@
 # What I read in 2024
 
 goal: 50 \
-read: 5/50
+read: 6/50
 
 - 🔴 mild
 - 🔵 great

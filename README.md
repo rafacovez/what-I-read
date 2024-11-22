@@ -1,7 +1,7 @@
 # What I read in 2024
 
 goal: 50 \
-read: 6/50
+read: 7/50
 
 - 🔴 mild
 - 🔵 great
@@ -15,6 +15,7 @@ read: 6/50
 - Serotonin, Michel Houellebecq 🔵
 - The Most Beautiful Woman in Town, Charles Bukowski 🟢
 - El Zahir, Paulo Coelho 🔵
+- El oro y la paz, Juan Bosch 🔵
 
 ### Top 3 authors
 

@@ -10,7 +10,7 @@ read: 3/50
 ## List
 
 - Una para cada ocasión, Fello Estévez 🟢
-- Canta la piedra desnuda vestida de silencio 🟢, Marlin Estévez
+- Canta la piedra desnuda vestida de silencio, Marlin Estévez 🟢
 - La fiesta del chivo, Mario Vargas Llosa 🟢
 
 ### Top 3 authors

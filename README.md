@@ -12,6 +12,7 @@ read: 3/50
 - Una para cada ocasión, Fello Estévez 🟢
 - Canta la piedra desnuda vestida de silencio, Marlin Estévez 🟢
 - La fiesta del chivo, Mario Vargas Llosa 🟢
+- Las súper maravillas de la primada de América 2, Iván Gatón 🟢
 
 ### Top 3 authors
 

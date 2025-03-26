@@ -1,7 +1,7 @@
 # What I read in 2025
 
 goal: 50 \
-read: 3/50
+read: 4/50
 
 - 🔴 mild
 - 🔵 great

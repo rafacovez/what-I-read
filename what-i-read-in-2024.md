@@ -1,7 +1,7 @@
 # What I read in 2024
 
 goal: 50 \
-read: 7/50
+read: 8/50
 
 - 🔴 mild
 - 🔵 great
@@ -16,6 +16,7 @@ read: 7/50
 - The Most Beautiful Woman in Town, Charles Bukowski 🟢
 - El Zahir, Paulo Coelho 🔵
 - El oro y la paz, Juan Bosch 🔵
+- Ciento volando de catorce, Joaquín Sabina 🟢
 
 ### Top 3 authors
 
